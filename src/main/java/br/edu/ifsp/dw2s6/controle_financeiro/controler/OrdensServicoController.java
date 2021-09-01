@@ -34,7 +34,6 @@ public class OrdensServicoController {
 		cliente3.setTelefone("456456456");
 		
 		return Arrays.asList(cliente1, cliente2, cliente3);
-		
 	}
 
 }
